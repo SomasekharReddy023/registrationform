@@ -16,4 +16,6 @@
 </head>
 <body>
     <h1>Welcome to My Website</h1>
-    <
+    <p>Thank you for visiting! Have a great day!</p>
+</body>
+</html>
